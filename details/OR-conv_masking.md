@@ -5,3 +5,9 @@
 ![](_figs/dssim_or-conv.png)
 
 > OR-conv masking applied on the (mean) DSSIM metric. An $n_{out}$ of 80 yields a non-masked DSSIM of $0.05$, whereas the masked DSSIM value has a value of $0.37$ nearing the non-correlation value (0.5).
+
+---
+
+The figure below is another (similar) illustration of the OR-convolution mask. This illustration includes a sanity check of the mask being 0 when we subtract the OR-conv mask multiplied with the DSSIM metric from the DSSIM metric itself. The result is a chart filled with zeros, as expected.
+
+![](_figs/dssim_or-conv_sanity.png)
