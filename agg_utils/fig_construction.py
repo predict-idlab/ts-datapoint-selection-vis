@@ -1,9 +1,8 @@
+"""Wittholds code for constructing figures with matplotlib and plotly."""
+
 from typing import Literal, Optional, Tuple
 
 import matplotlib.lines as lines
-
-"""Wittholds code for constructing figures with matplotlib and plotly."""
-
 import matplotlib.pyplot as plt
 import numpy as np
 import plotly.graph_objects as go
