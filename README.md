@@ -11,6 +11,11 @@ Folder structure
 ```
 
 
+### Utilizing this repository
+
+Make sure that you've extended the [path_conf.py](agg_utils/path_conf.py) file's hostname if statement with your machine's hostname and that you've configured the path to the UCR archive folder.
+
+
 ---
 
 <p align="center">
