@@ -21,7 +21,7 @@
 <!-- Embed the gif in html -->
 
 <div align="center">
-<img src="gifs/teaser_n_out.gif" alt="teaser" width="95%"/>
+<img src="gifs/teaser_n_out__small.gif" alt="teaser" width="95%"/>
 <br></br>
 </div>
 
