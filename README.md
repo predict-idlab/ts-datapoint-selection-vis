@@ -21,8 +21,8 @@ Preprint: :construction:
 - Supplementary gifs can be found in the `gifs` folder.
 - See [notebooks README](notebooks/) for the more details.
   - The `0.*` notebooks contain data parsing and figure generation.
-  - The `1.*` notebooks perform the analysis (visual representativeness and visual stability).
-  - The `varia_*` notebooks illustrate OR-conv, toolkit comparison, and M4 pixel-perfect nuances.
+  - The `1.*` notebooks performing the core experiments (visual representativeness and visual stability).
+  - The `varia_*` notebooks perform further analysis: OR-conv, toolkit comparison, and M4 pixel-perfect nuances.
 
 Folder structure
 ```txt
