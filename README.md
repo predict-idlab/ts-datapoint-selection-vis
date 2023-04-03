@@ -1,4 +1,9 @@
-# Representativity of time series data aggregation algorithms
+<!-- # :mag: data point selection for line chart visualization -->
+<!-- center in a div -->
+
+<div align="center">
+<h1>:mag: Data Point Selection for Line Chart Visualization</h1>
+</div>
 
 <!-- <div align="center">
 <h1>
@@ -8,11 +13,23 @@
 </div> -->
 
 
-Codebase & further details for the paper: 
+<!-- Codebase & further details for the paper:  -->
+<!-- > **Data Point Selection for Line Chart Visualization: Methodological Assessment and Evidence-Based Guidelines**   -->
+<!-- > Jonas Van Der Donckt, Jeroen Van Der Donckt -->
+
+<!-- ![](gifs/teaser_n_out.gif) -->
+<!-- Embed the gif in html -->
+
+<div align="center">
+<img src="gifs/teaser_n_out.gif" alt="teaser" width="95%"/>
+<br></br>
+</div>
+
+*Codebase & further details for the paper*:  
 > **Data Point Selection for Line Chart Visualization: Methodological Assessment and Evidence-Based Guidelines**  
 > Jonas Van Der Donckt, Jeroen Van Der Donckt
 
-Preprint: :construction:
+**Preprint**: :construction:
 
 ## How is the repository structured?
 
