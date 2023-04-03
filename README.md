@@ -20,9 +20,9 @@ Preprint: :construction:
 - Additional details can be found in the respective README.md files in the `details` folder.
 - Supplementary gifs can be found in the `gifs` folder.
 - See [notebooks README](notebooks/) for the more details.
-  - The `0.*` notebooks are used for data parsing and figure generation.
-  - The `1.*` notebooks are used for the analysis (visual representativeness and visual stability).
-  - The `varia_*` notebooks are used to illustrate OR-conv, toolkit comparison, and M4 pixel-perfect nuances.
+  - The `0.*` notebooks contain data parsing and figure generation.
+  - The `1.*` notebooks perform the analysis (visual representativeness and visual stability).
+  - The `varia_*` notebooks illustrate OR-conv, toolkit comparison, and M4 pixel-perfect nuances.
 
 Folder structure
 ```txt
@@ -31,16 +31,6 @@ Folder structure
 ├── gifs               <- supplementary gifs
 ├── loc_data           <- local data folder 
 └─── notebooks          <- main notebooks see README.md
-```
-
-## [notebooks README](notebooks/)
-
-Folder structure
-```txt
-├── agg_utils          <- shared codebase for the notebooks
-├── loc_data           <- local data folder 
-└─── notebooks          <- main notebooks see README.md
-    └── playground      <- playground notebooks see README.md
 ```
 
 ## How to install the requirements?
