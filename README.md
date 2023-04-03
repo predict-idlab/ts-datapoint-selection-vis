@@ -47,7 +47,7 @@ Folder structure
 ├── details            <- additional details in README.md files
 ├── gifs               <- supplementary gifs
 ├── loc_data           <- local data folder 
-└─── notebooks          <- main notebooks see README.md
+└── notebooks          <- experiment notebooks see notebooks README.md
 ```
 
 ## How to install the requirements?
