@@ -11,6 +11,6 @@
 | [Visual Stability](1.2_Visual_stability.ipynb)| This notebook explores the visual stability  of the aggregators. Specifically it: <br> - Demonstrates the trend of the stability of the various aggregators of the data-sizes (as `n_out` increases) <br> |
 | <h3> :mag: **analysis** </h3> | |
 | [or-conv mask](varia_OR_conv.ipynb) | This notebook demonstrates the  `or-conv` mask on the (D)SSIM and metric. |
-| [pixelperfect m4](varia_pixelperfect_m4.ipynb.ipynb) | This notebook investigates the pixelperfectness of the [M4](http://www.vldb.org/pvldb/vol7/p797-jugel.pdf) data aggregation algorithm.<br> More specifically, the pixel errors are are investigated for:<br><br> - different visualization toolkits <br> - different visualization configurations<br><br> And an interpretation of the results is given. |
-| [toolkit comparison](varia_toolkit_comparison.ipynb.ipynb.ipynb) | This notebook analyzes the rasterization differences between `plotly`, `bokeh`, and `matplotlib` toolkits for the same template series. |
+| [pixelperfect m4](varia_pixelperfect_m4.ipynb) | This notebook investigates the pixelperfectness of the [M4](http://www.vldb.org/pvldb/vol7/p797-jugel.pdf) data aggregation algorithm.<br> More specifically, the pixel errors are are investigated for:<br><br> - different visualization toolkits <br> - different visualization configurations<br><br> And an interpretation of the results is given. |
+| [toolkit comparison](varia_toolkit_comparison.ipynb) | This notebook analyzes the rasterization differences between `plotly`, `bokeh`, and `matplotlib` toolkits for the same template series. |
 
