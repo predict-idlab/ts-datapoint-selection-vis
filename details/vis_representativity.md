@@ -18,8 +18,8 @@ This markdown file accompanies the interactive visualizations of the `Visual Rep
 
 ### Image template grid & toolkit
 
-**Note**: All visualizations utilize a line-width of 2 and linear interpolation.
-An HTML of the visualization can be found [here](../animations/lw%3D2_default_frame%3Dtoolkits_aa.html)
+**Note**: All visualizations utilize a line-width of 2 and linear interpolation.<br>
+An interactive HTML of the visualization can be found [here](../animations/lw%3D2_default_frame%3Dtoolkits_aa.html)
 
 ![](../gifs/toolkit_aa.gif)
 
@@ -40,7 +40,8 @@ An HTML of the visualization can be found [here](../animations/lw%3D2_default_fr
 ### Image template grid & line width
 
 The employed toolkit is Plotly, using its default configurations i.e. a line width of 2 
-and a linear interpolation. The metrics are computed using refrence images of the same line width.
+and a linear interpolation. The metrics are computed using refrence images of the same line width.<br>
+An interactive HTML of the visualization can be found [here](../animations/plotly_default_frame%3Dlw.html)
 
 ![](../gifs/plotly_default_slider%3Dlw.gif)
 
