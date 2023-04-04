@@ -33,17 +33,19 @@
 
 ## How is the repository structured?
 
-- The codebase is located in the `agg_utils` folder.
-- Additional details can be found in the respective README.md files in the `details` folder.
-- Supplementary gifs can be found in the `gifs` folder.
+- The codebase is located in the `agg_utils` (python scripts) and notebooks folder.
+- Additional details can be found in markdown files in the `details` folder.
+- Supplementary gifs are located in the `gifs` folder.
 - See [notebooks README](notebooks/) for the more details.
   - The `0.*` notebooks contain data parsing and figure generation.
-  - The `1.*` notebooks performing the core experiments (visual representativeness and visual stability).
+  - The `1.*` notebooks perform the core experiments (visual representativeness and visual stability).
   - The `varia_*` notebooks perform further analysis: OR-conv, toolkit comparison, and M4 pixel-perfect nuances.
+- The `animations` folder contains html animations, which allow to inspect the phenomena in more detail.
 
 Folder structure
 ```txt
 ├── agg_utils          <- shared codebase for the notebooks
+├── animations         <- html animations
 ├── details            <- additional details in README.md files
 ├── gifs               <- supplementary gifs
 ├── loc_data           <- local data folder 
@@ -52,7 +54,7 @@ Folder structure
 
 ## How to install the requirements?
 
-This repository uses [poetry](https://python-poetry.org/) as dependency manager.  
+This repository uses [poetry](https://python-poetry.org/) as dependency manager.
 A specification of the dependencies is provided in the [`pyproject.toml`](pyproject.toml) and [`poetry.lock`](poetry.lock) files.
 
 You can install the dependencies in your Python environment by executing the following steps;
