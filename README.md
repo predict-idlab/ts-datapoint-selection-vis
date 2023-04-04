@@ -29,7 +29,7 @@
 > **Data Point Selection for Line Chart Visualization: Methodological Assessment and Evidence-Based Guidelines**  
 > Jonas Van Der Donckt, Jeroen Van Der Donckt
 
-**Preprint**: :construction:
+**Preprint**: https://arxiv.org/abs/2304.00900
 
 ## How is the repository structured?
 
