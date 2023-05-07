@@ -29,7 +29,7 @@
 > **Data Point Selection for Line Chart Visualization: Methodological Assessment and Evidence-Based Guidelines**  
 > Jonas Van Der Donckt, Jeroen Van Der Donckt
 
-**Preprint**: https://arxiv.org/abs/2304.00900
+**Preprint**: https://arxiv.org/abs/2304.00900 - see [cite](#cite) for bibtex!
 
 ## How is the repository structured?
 
@@ -66,6 +66,16 @@ You can install the dependencies in your Python environment by executing the fol
 
 Make sure that you've extended the [path_conf.py](agg_utils/path_conf.py) file's hostname if statement with your machine's hostname and that you've configured the path to the UCR archive folder.
 
+## Cite
+
+```bibtex
+@article{van2023data,
+  title={Data Point Selection for Line Chart Visualization: Methodological Assessment and Evidence-Based Guidelines},
+  author={Van Der Donckt, Jonas and Van Der Donckt, Jeroen and Rademaker, Michael and Van Hoecke, Sofie},
+  journal={arXiv preprint arXiv:2304.00900},
+  year={2023}
+}
+```
 
 ---
 
